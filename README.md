@@ -68,5 +68,5 @@ I care about building things that are both technically sound and practically use
 ## 📫 Get in Touch
 
 [![Email](https://img.shields.io/badge/Email-oliviahamisi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oliviahamisi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-oliviahamisi.dev-1A56DB?style=flat&logo=globe&logoColor=white)](https://6809bce4a8c5c5481f06fa7c--oliviaportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-oliviahamisi.dev-1A56DB?style=flat&logo=globe&logoColor=white)](https://oliviaportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oliviahamisi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/oliviahamisi)
