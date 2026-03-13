@@ -53,9 +53,9 @@ I care about building things that are both technically sound and practically use
 
 | Project | Description | Stack |
 |---|---|---|
-| [🎮 Reinforcement Learning Game](https://github.com/oliviahamisi/reinforcement-learning-game) | Custom adventure game where a Q-Learning agent learns to navigate from start to goal while avoiding traps | Python, Pygame, Q-Learning, Jupyter |
-| [🎵 Spotify Music Player](https://github.com/oliviahamisi) | Full-stack music streaming app with real-time Spotify playback, OAuth 2.0, and playlist management | React, TypeScript, Node.js |
-| [🎬 Movie Database App](https://github.com/oliviahamisi) | Full-stack CRUD app with MVC architecture, relational DB design, and responsive UI | Node.js, SQL, Bootstrap |
+| [🎮 Reinforcement Learning Game](https://github.com/Iminza67/ReinforcementLearning) | Custom adventure game where a Q-Learning agent learns to navigate from start to goal while avoiding traps | Python, Pygame, Q-Learning, Jupyter |
+| [🎵 Spotify Music Player](https://github.com/Iminza67/SpotifyClone) | Full-stack music streaming app with real-time Spotify playback, OAuth 2.0, and playlist management | React, TypeScript, Node.js |
+| [🎬 Movie Database App](https://github.com/Iminza67/movie-database) | Full-stack CRUD app with MVC architecture, relational DB design, and responsive UI | Node.js, SQL, Bootstrap |
 
 ---
 
